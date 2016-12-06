@@ -3,4 +3,4 @@ disable_root: True
 password: init
 chpasswd: { expire: False }
 ssh_authorized_keys:
-  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHadW6CgSKY8UsVdXH/v9zmP2JPzjxN5tfyfOO1gSli3 rahul@Luna.local
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJavhJJmqbiH8uml+tMrvo6V8Z2HA3oXj9p0WSMdccok ops@rahul.ag
